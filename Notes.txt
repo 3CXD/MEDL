@@ -1,6 +1,0 @@
-1.- Necesita tomas más alejadas de las latas, aún más alejadas
-2.- Entrenar con más épocas para mejorar la taza de precisión, hasta 100
-3.- Fotografías de las partes inferiores de las latas
-4.- Necesito seguír entrenando con iluminación intermedia
-
-Plan a futuro.- Realizar pruebas con una Raspberry PI 4
